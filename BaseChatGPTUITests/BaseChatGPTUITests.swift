@@ -2,7 +2,7 @@
 //  BaseChatGPTUITests.swift
 //  BaseChatGPTUITests
 //
-//  Created by Weifeng Cao on 5/3/24.
+//  Created by Mason Cao on 5/3/24.
 //
 
 import XCTest
